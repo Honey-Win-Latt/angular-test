@@ -1,0 +1,23 @@
+-GIT COMMANDS....
+
+For window , git bash
+
+1.Create account in GitHub to create repository (Server)
+	- Sign Up -> Sign In
+	- Start a project -> Create repositorym 
+
+
+2. Install Git on local
+	-git init  (or) git clone (For Local)
+	-git remote add origin "getFromgithub.com"
+	-git pull (Get Updated files)
+	-git add fileName
+	-git commit -m "CommitMessage"
+
+3. Creating branches
+	-git branch BranchName
+	-git checkout BranchName
+	
+4. Merging
+	-git merge BranchName
+
